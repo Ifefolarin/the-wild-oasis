@@ -1,6 +1,6 @@
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
-import BookingTable from "../features/Bookings/Bookingtable";
+import BookingTable from "../features/bookings/BookingTable";
 import BookingTableOperations from "../features/Bookings/BookingTableOperations";
 
 function Bookings() {
